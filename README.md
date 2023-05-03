@@ -1,2 +1,0 @@
-# JS-Challenge
-Javascript challenge
