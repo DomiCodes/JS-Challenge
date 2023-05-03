@@ -1,0 +1,36 @@
+body{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#div1{
+    font-size: larger;
+    padding: 5px;
+}
+#div2{
+    display: flex;
+    padding: 5px;
+}
+#div3{
+    border: 1px solid black;
+    padding: 20px;
+}
+#div4{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+}
+#img-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+#img-div img{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
